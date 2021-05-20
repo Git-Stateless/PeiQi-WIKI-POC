@@ -1,5 +1,37 @@
 # 文库更新时间线记录🦄
 
+###### 2021-5-15 ZeroShell 3.9.0 远程命令执行漏洞 CVE-2019-12725
+
+###### 2021-5-14 狮子鱼CMS wxapp.php 任意文件上传漏洞
+
+###### 2021-5-14 狮子鱼CMS image_upload.php 任意文件上传
+
+###### 2021-5-14 狮子鱼CMS ApigoodController.class.php SQL注入漏洞
+
+###### 2021-5-14 狮子鱼CMS ApiController.class.php SQL注入漏洞
+
+###### 2021-5-12 泛微E-Cology WorkflowServiceXml RCE
+
+###### 2021-5-12 H3C IMC dynamiccontent.properties.xhtm 远程命令执行
+
+###### 2021-5-12 蓝海卓越计费管理系统 download.php 任意文件读取漏洞
+
+###### 2021-5-12 TVT数码科技 NVMS-1000 路径遍历漏洞
+
+###### 2021-5-11 碧海威 L7多款产品 后台命令执行漏洞
+
+###### 2021-5-9 FLIR-AX8 download.php 任意文件下载
+
+###### 2021-5-8 会捷通云视讯 list 目录文件泄露漏洞
+
+###### 2021-5-8 PHPUnit eval-stdin.php 远程命令执行漏洞
+
+###### 2021-5-8 蓝凌OA SSRF+JNDI远程命令执行
+
+###### 2021-5-8 VoIPmonitor 远程命令执行漏洞 CVE-2021-30461
+
+###### 2021-5-8 电信天翼网关F460 web_shell_cmd.gch 远程命令执行漏洞
+
 ###### 2021-5-5 rConfig ajaxEditTemplate.php 后台远程命令执行
 
 ###### 2021-5-4 电信中兴ZXHN F450A网关 默认管理员账号密码漏洞
